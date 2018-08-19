@@ -1,5 +1,12 @@
 package com.cloud.zlist.autofire;
 
+/**
+ * @author jstarseven
+ * @version 1.0
+ * @Title: SimilarDegree
+ * @Description: 分析网页列表结构
+ * @date 2018年8月15日 下午13:44:32
+ */
 public class SimilarDegree {
 
     public static final double degree = 0.8;

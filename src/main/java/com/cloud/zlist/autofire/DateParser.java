@@ -7,9 +7,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * jstarseven
- * 通用时间处理类  return Date
- * */
+ * @author jstarseven
+ * @version 1.0
+ * @Title: DateParser
+ * @Description: 分析网页列表结构
+ * @date 2018年8月15日 下午13:44:32
+ */
 public class DateParser {
 	private static int timezone = 0;
 	private static final Pattern[] DPTN = {

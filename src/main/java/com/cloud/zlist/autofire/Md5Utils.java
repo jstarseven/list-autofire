@@ -4,7 +4,11 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by zhangxuan on 2016/9/13.
+ * @author jstarseven
+ * @version 1.0
+ * @Title: Md5Utils
+ * @Description: 分析网页列表结构
+ * @date 2018年8月15日 下午13:44:32
  */
 public class Md5Utils {
     private final static String[] strDigits = {"0", "1", "2", "3", "4", "5",

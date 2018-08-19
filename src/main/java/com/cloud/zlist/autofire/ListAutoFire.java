@@ -15,11 +15,10 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * @author lingrui
+ * @author jstarseven
  * @version 1.0
  * @Title: ListAutoFire
  * @Description: 分析网页列表结构
- * @Company: 北京华宇元典信息服务有限公司
  * @date 2018年8月15日 下午13:44:32
  */
 public class ListAutoFire {
